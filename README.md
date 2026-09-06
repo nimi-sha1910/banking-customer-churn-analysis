@@ -33,3 +33,20 @@ An interactive Power BI dashboard for analyzing banking customer churn, retentio
 ## Project Objective
 
 To identify customer churn patterns and generate data-driven insights that can support customer retention strategies.
+
+## 📸 Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](screenshots/page-1-executive-overview.png)
+
+### 2. Customer Churn Analysis
+![Customer Churn Analysis](screenshots/page-2-customer-churn.png)
+
+### 3. Customer Demographics
+![Customer Demographics](screenshots/page-3-customer-demographics.png)
+
+### 4. Financial & Product Analysis
+![Financial & Product Analysis](screenshots/page-4-financial-product-analysis.png)
+
+### 5. Retention & Customer Insights
+![Retention & Customer Insights](screenshots/page-5-retention-insights.png)
